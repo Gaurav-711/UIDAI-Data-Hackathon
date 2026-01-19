@@ -133,3 +133,8 @@ The notebook generates and saves charts (PNG) such as:
 2. Mount Google Drive
 3. Place CSV files inside Drive folder:
 
+   MyDrive/aadhaar_hackathon/
+├── enrolment.csv
+├── demographic.csv
+├── biometric.csv
+
